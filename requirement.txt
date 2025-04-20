@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+langchain==0.1.14
+transformers==4.39.3
+sentence-transformers==2.6.1
+faiss-cpu==1.7.4
+gradio==4.21.0

@@ -1,0 +1,58 @@
+[
+    {
+      "name": "The Original",
+      "location": {
+        "address": "123 Main St",
+        "city": "Denver",
+        "state": "CO",
+        "zip_code": "80202"
+      },
+      "menu": [
+        {
+          "item_name": "Pancakes",
+          "description": "Fluffy pancakes served with maple syrup",
+          "price": "$8.99",
+          "tags": ["breakfast", "vegetarian"]
+        },
+        {
+          "item_name": "Burger",
+          "description": "Juicy beef burger with fries",
+          "price": "$12.99",
+          "tags": ["lunch", "dinner"]
+        }
+      ],
+      "operating_hours": "Mon-Sun: 7am-10pm",
+      "contact": {
+        "phone": "123-456-7890",
+        "email": "info@theoriginaldenver.com"
+      }
+    },
+    {
+      "name": "Girl & the Goat",
+      "location": {
+        "address": "456 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60610"
+      },
+      "menu": [
+        {
+          "item_name": "Goat Cheese Salad",
+          "description": "Fresh salad with goat cheese and vinaigrette",
+          "price": "$10.99",
+          "tags": ["appetizer", "vegetarian"]
+        },
+        {
+          "item_name": "Lamb Shank",
+          "description": "Slow-cooked lamb shank with mashed potatoes",
+          "price": "$24.99",
+          "tags": ["dinner"]
+        }
+      ],
+      "operating_hours": "Tue-Sat: 5pm-11pm",
+      "contact": {
+        "phone": "987-654-3210",
+        "email": "contact@girlandthegoat.com"
+      }
+    }
+  ]
